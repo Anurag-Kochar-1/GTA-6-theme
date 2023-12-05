@@ -2,7 +2,7 @@
   "name": "gta-6-theme",
   "displayName": "gta-6-theme",
   "description": "unofficial, fan-made vscode theme based on gta 6 color palette.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "GTA-6-theme",
   "engines": {
     "vscode": "^1.84.0"
