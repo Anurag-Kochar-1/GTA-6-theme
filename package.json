@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anurag-Kochar-1/GTA-6-theme"
+  },
   "categories": [
     "Themes"
   ],
@@ -18,5 +22,15 @@
         "path": "./themes/GTA 6 theme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "GTA",
+    "Gta 6",
+    "Gta 6 theme",
+    "Gta 6 theme",
+    "Game theme",
+    "Grand theft auto",
+    "Grand theft auto 6",
+    "Grand theft auto 6 theme"
+  ]
 }

@@ -1,16 +1,22 @@
-# gta-6-theme README
+# GTA 6 Theme Extension
 
-## Working with Markdown
+## Overview
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This GTA 6 Theme Extension is a fanmade and unofficial Visual Studio Code theme inspired by the Grand Theft Auto VI game trailer by Rockstar Games. This extension aims to bring the color palette from the official GTA 6 trailer into your VS Code environment.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Disclaimer
 
-## For more information
+This extension is not affiliated with or endorsed by Rockstar Games. It is a fan-created project for personal enjoyment and customization of the VS Code editor.
+## Feedback
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+If you have any feedback, suggestions, or issues, feel free to open an issue on the GitHub repository.
 
-**Enjoy!**
+## Removal Request
+
+If you are a representative of Rockstar Games and would like this extension to be removed due to concerns about intellectual property, please contact me at [anuragmarketing101@gmail.com
+](mailto:anuragmarketing101@gmail.com
+).
+
+## License
+
+This extension is licensed under the [MIT License](LICENSE.md).
