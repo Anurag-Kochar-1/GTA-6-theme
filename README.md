@@ -16,7 +16,3 @@ If you have any feedback, suggestions, or issues, feel free to open an issue on 
 If you are a representative of Rockstar Games and would like this extension to be removed due to concerns about intellectual property, please contact me at [anuragmarketing101@gmail.com
 ](mailto:anuragmarketing101@gmail.com
 ).
-
-## License
-
-This extension is licensed under the [MIT License](LICENSE.md).
