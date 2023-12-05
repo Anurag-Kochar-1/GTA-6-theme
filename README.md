@@ -1,7 +1,5 @@
 # GTA 6 Theme
 
-![Screenshot](/assets/images/ss-1.png)
-
 ##  Disclaimer
 
 This extension is not affiliated with or endorsed by Rockstar Games. It is a fan-created project for personal enjoyment and customization of the VS Code editor.
